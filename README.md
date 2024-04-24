@@ -1,2 +1,2 @@
 # interview-angular-59
-（核心题）Angular（59道题）
+（重点）Angular（59道题）
